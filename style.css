@@ -142,7 +142,7 @@ footer p{
       width: 270px;
       height: 556px;
       top: -138px;
-      left: 80px;
+      left: 60px;
     }
     main{
       height: 600px;
@@ -154,7 +154,7 @@ footer p{
     .main-container{
       padding: 48px 48px;
       top: 200px;
-      right: 88px;
+      right: 100px;
       width: 400px;
     }
     footer{
@@ -200,7 +200,7 @@ main, footer{
 .illustration{
   width: 280px;
   height: 606px;
-  left: 160px;
+  left: 230px;
   top: -190px;
 }
 main p{
